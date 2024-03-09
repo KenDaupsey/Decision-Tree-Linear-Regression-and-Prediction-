@@ -25,7 +25,8 @@ Run the Python script containing the code.
 The script will load the dataset, preprocess the data, train the Decision Tree Regression model, evaluate its performance, visualize feature importance, plot the decision tree, and demonstrate how to use the trained model for making predictions on new data points.
 
 Dataset
-The dataset used in this project is assumed to be available locally in the project directory, named hsb2~data.csv.
+The dataset used in this project is available on URL:
+"https://raw.githubusercontent.com/KenDaupsey/Decision-Tree-Linear-Regression-and-Prediction-/main/hsb2%7Edata.csv"
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
